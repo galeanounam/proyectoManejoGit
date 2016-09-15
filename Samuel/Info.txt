@@ -1,0 +1,2 @@
+Este archivo forma parte de la entrega para evaluación del modulo 2 "Control de
+Versiones" del Diplomado "Linux Sitemas Embebidos"

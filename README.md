@@ -18,8 +18,9 @@ Merge, rebase y cherrypick.
 
 -Merge: La unión de la rama de Cristian se unió con $git merge, como se ve en el commit ()
 
--Cherry-pick: El commit que se elgió tenía el checksum cea90b8 y cuando se unio a la rama master tenía el 
-checksum d1fcf41.
+-Cherry-pick: El primer commit que se eligió provenía de la rama de Samuel tenía el checksum cea90b8 y cuando 
+se unio a la rama master tenía el checksum d1fcf41. Tambíén se hizó otro cherrypick con commit 28ed8e2 proveniente
+de la rama de Samuel.
 
 **Resumen:
   - El rebase se obtuvo a partir de la rama de Marco. commit(c7fa49b)

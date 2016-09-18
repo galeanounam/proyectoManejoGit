@@ -16,7 +16,8 @@ Merge, rebase y cherrypick.
   se unió el commit con el checksum original (692b500) y se concluye que la rama principal es producto de un
   $git rebase marco (hecho en la rama master) hasta el commit c7fa49b.
 
--Merge: La unión de la rama de Felix se unió con $git merge, como se ve en el commit ()
+-Merge: La unión de la rama de gitignore se unió con $git merge, como se ve en el commit (9795fcc), así 
+  como diferentes ramas.
 
 -Cherry-pick: El primer commit que se eligió provenía de la rama de Samuel tenía el checksum cea90b8 y cuando 
 se unio a la rama master tenía el checksum d1fcf41. Tambíén se hizó otro cherrypick con commit 28ed8e2 proveniente
@@ -24,5 +25,5 @@ de la rama de Samuel. El cherry-pick se ejecutó con $git cherry-pick <hash-comm
 
 **Resumen:
   - El rebase se obtuvo a partir de la rama de Marco. commit(c7fa49b)
-  - La rama de Felix se unió con un merge. commit()
+  - La rama de gitignore se unió con un merge. commit(9795fcc)
   - El cherry-pick se obtuvo de un commit de la rama de Samuel. commit (1fcf41)

@@ -1,4 +1,10 @@
-* 5480af9feaaa8819607c02542cccb872624e18be Add Felix name to Integrantes.txt
+*   fa4fac37a1dbf6f3a18b046f366a612db9ac2dcd Merge branch 'master' of https://github.com/galeanounam/proyectoManejoGit
+|\  
+| * 5237a759e277d6a52482145f9939080f5ae93839 Update README.md to explain development of this project.
+| * b99b7e7af2293d345b4561456ab9eccf06dfdd04 Update README.md to explain development of this project.
+* | f6b25b8a8380534043627b1680e71a5d45afa313 Add gitlog File
+* | 5480af9feaaa8819607c02542cccb872624e18be Add Felix name to Integrantes.txt
+|/  
 *   a7a9d518d01e3cd20ab3f43f98540f83d1ff14fe Merge branch 'master' of https://github.com/galeanounam/proyectoManejoGit
 |\  
 | * 81ea0662b34d15243f304fd24e49d7f72fbb4083 Update README.md to explain development of this project.

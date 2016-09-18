@@ -1,0 +1,20 @@
+* 5480af9feaaa8819607c02542cccb872624e18be Add Felix name to Integrantes.txt
+*   a7a9d518d01e3cd20ab3f43f98540f83d1ff14fe Merge branch 'master' of https://github.com/galeanounam/proyectoManejoGit
+|\  
+| * 81ea0662b34d15243f304fd24e49d7f72fbb4083 Update README.md to explain development of this project.
+| * d20a7d67207e2736070073e516679ae6a92fb70c Update README.md to explain three main unions by Git in this project
+* | 28ed8e28565386207578706a2c68d124f9993c3a Fixed conflict originated from cherry-pick 'Integrantes.txt'
+* | d1fcf41292d7379b776653ba69ac6743432d05c0 Se modifico el contenido del archivo Info.txt
+|/  
+*   f7836cbbab96657ae85cd06f4e6eab7f08b774ec Merge pull request #1 from Vura212/master
+|\  
+| * 692b500c7ec942c8a34846f1930269201281643b Agrego mi nombre en la lista de integrantes
+* | c7fa49b4f856669c651dfa3c85964078e39f797c Agrego mi nombre en la lista de integrantes
+* |   9795fcc99a48bac610682bc86770c703a8073916 Merge branch 'gitignore' which was used to create '.gitignore' file
+|\ \  
+| |/  
+|/|   
+| * 0d407d46fa6f8d67de78f69cd849299df72e20fc Add .gitignore file to ignore generated files from compilers, etc...
+* | f24d658ed2411341f2c2de5ea498b9b1e954a91e Add text file Integrantes.txt which contains members of this project
+|/  
+* 4b555fc9835c5820b526568a3d1d8e96da711645 Initial commit
